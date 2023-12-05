@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chlcartwright - you can call me Rochelle - preferred name Chloe :)
-- 👀 I’m interested in ...
+- 👀 I’m interested in software engineering and seeing an end result after building it
 - 🌱 I’m currently learning: Python
 - 📫 You can reach me at: chloe@cart-writes.com
 
